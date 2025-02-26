@@ -14,3 +14,22 @@ En esta FP estoy aprendiendo Java, Bases de Datos, manejo de sistemas informáti
 
 ### Contactame 
 - 📧 lukas.vogdt@gmail.com
+
+---
+
+### ¡Hi! I'm Lukas Clifford
+
+Normally, It is said that a person thinks in a logical or creative way, however, our brain is design for working both ways.
+I've dedicated myself to training both qualities throughout my life, searching for all types of technologies to surprise my friends or make them laugh.
+
+### What do I do?
+- I mainly develop in Java and Python, and occasionally do some work with Arduino
+- I write scripts for everyday life and some fun projects just for the sake of having a good time. 
+- I focus primarily on creativity, finding new ways of doing things for the "wow" factor.
+
+### Currently learning  
+I am studying a vocational training program in cross-platform application development.
+In this program, I am learning Java, Databases, IT systems management, among other things.
+
+### Contact me 
+- 📧 lukas.vogdt@gmail.com

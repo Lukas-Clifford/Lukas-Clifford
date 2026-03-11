@@ -10,7 +10,7 @@ Me he dedicado a entrenar ambas cualidades durante mi vida, explorando todo tipo
 
 ### Actualmente aprendiendo  
 Estoy estudiando una formación profesional de desarrollo de aplicaciones multiplataforma.
-En esta FP estoy aprendiendo Java, Bases de Datos, manejo de sistemas informáticos, entre otras cosas.
+En esta FP estoy aprendiendo Java, Bases de Datos, programación en Android, diseño de Interfaces, entre otras cosas.
 
 ### Contactame 
 - 📧 lukas.vogdt@gmail.com
@@ -29,7 +29,7 @@ I've dedicated myself to training both qualities throughout my life, searching f
 
 ### Currently learning  
 I am studying a vocational training program in cross-platform application development.
-In this program, I am learning Java, Databases, IT systems management, among other things.
+In this program, I am learning Java, Databases, Android applications, UI design, among other things.
 
 ### Contact me 
 - 📧 lukas.vogdt@gmail.com

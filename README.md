@@ -12,6 +12,4 @@ Si mi perfil te resulta interesante o quieres saber más sobre mis proyectos, pu
 
 ---
 ### Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lukas-Clifford&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas-Clifford&layout=compact&theme=tokyonight&hide_border=true)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lukas-Clifford)](https://github.com/anuraghazra/github-readme-stats)

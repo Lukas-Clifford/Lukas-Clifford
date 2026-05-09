@@ -13,7 +13,7 @@ Estoy estudiando una formación profesional de desarrollo de aplicaciones multip
 En esta FP estoy aprendiendo Java, Bases de Datos, programación en Android, diseño de Interfaces, entre otras cosas.
 
 ### Contactame 
-- 📧 lukas.vogdt@gmail.com
+📧 lukas.vogdt@gmail.com
 
 ---
 
@@ -32,4 +32,4 @@ I am studying a vocational training program in cross-platform application develo
 In this program, I am learning Java, Databases, Android applications, UI design, among other things.
 
 ### Contact me 
-- 📧 lukas.vogdt@gmail.com
+📧 lukas.vogdt@gmail.com

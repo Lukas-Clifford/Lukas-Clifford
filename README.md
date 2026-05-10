@@ -12,4 +12,4 @@ Si mi perfil te resulta interesante o quieres saber más sobre mis proyectos, pu
 
 ---
 ### Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Lukas-Clifford)](https://github.com/anuraghazra/github-readme-stats)
+[![Estadísticas de GitHub](https://github.com/Lukas-Clifford/Lukas-Clifford/blob/main/top-langs.svg)
